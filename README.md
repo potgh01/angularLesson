@@ -1,9 +1,9 @@
 # AngularLesson
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.12.
-The application currently has two components, an "Home" component and a "navbar" component.
+The application currently has two components, a "Home" component and a "navbar" component.
 The "home" component is added to the routes in app.routes.ts -> When a user navigates to the main url the home component will be shown.
-The navbar component is the "navigation bar" within the home component. Ypou first have to import the navbar component [NavbarComponent] into the home component in home.components.ts
+The navbar component is the "navigation bar" within the home component. You first have to import the navbar component [NavbarComponent] into the home component in home.components.ts
 You can then use the selector in the "home" components html template.[home.component.html]
 
 ## Development server
